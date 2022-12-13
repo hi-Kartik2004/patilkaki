@@ -19,6 +19,5 @@ Footer
 ![image](https://user-images.githubusercontent.com/111000515/207436619-dd5ad1f1-ace8-4001-a869-520260b9ae68.png)
 # Experience the website here : 
 To experience the website animations please visit hi-kartik2004.github.io/patilkaki/
-undefined
 
 
