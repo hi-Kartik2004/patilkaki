@@ -17,7 +17,8 @@ Contact us section
 ![image](https://user-images.githubusercontent.com/111000515/207436515-cc2e21c6-515d-4704-9917-9ef529c1b9db.png)
 Footer 
 ![image](https://user-images.githubusercontent.com/111000515/207436619-dd5ad1f1-ace8-4001-a869-520260b9ae68.png)
-To experience the website animations please visit hi-kartik2004.github.io/
+# Experience the website here : 
+To experience the website animations please visit hi-kartik2004.github.io/patilkaki/
 undefined
 
 
